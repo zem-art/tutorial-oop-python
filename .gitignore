@@ -1,0 +1,24 @@
+.idea
+.vscode
+
+01_Python-Pendahuluan-OOP/__pycache__/
+02_Constructor-__init__()/__pycache__/
+03_Class-dan-Instance-Variabel/__pycache__/
+04_Method/__pycache__/
+05_Latihan-OOP-Sederhana/__pycache__/
+06_Latihan-Package-tkinter/__pycache__/
+07_Private-Variabel/__pycache__/
+08_Encapsulisi/__pycache__/
+09_StaticMethod-Dan-ClassMethod/__pycache__/
+10_Getter-Dan-Setter/__pycache__/
+11_Latihan-Encapsulasi/__pycache__/
+12_Pengenalan-Inheritence/__pycache__/
+13_SUPER-di-class-Inheritance/__pycache__/
+14_Override Method/__pycache__/
+15_Latihan-Dasar-Inheritence/__pycache__/
+16_Belajar-Multiple-Inheritance-( MRO )__pycache__/
+17_Belajar-Method-Reasulition-Order/__pycache__/
+18_Diamond-Problem/__pycache__/
+19_Magic-Method/__pycache__/
+20_Class-Abstrak/__pycache__/
+21_20_Class-Abstrak-Decorator/__pycache__/
