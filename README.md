@@ -36,4 +36,4 @@ You can learn to use Python and see almost immediate gains in productivity and l
 
 ## Remake Github
 
-* https://github.com/zem-art/kumpulan_belajar_python/tree/master/Belajar%20Python%20Dasar
+* https://github.com/zem-art/kumpulan_belajar_python/tree/master/Belajar_OOP_Di_Python
